@@ -1,4 +1,4 @@
-# 🚀 DevOps 100 Days — Hands-on Learning Journey
+# DevOps 100 Days — Hands-on Learning Journey
 
 This repository documents my **100-day DevOps learning journey**, where I practice real-world skills in:
 
@@ -15,7 +15,7 @@ This repository documents my **100-day DevOps learning journey**, where I practi
 
 ---
 
-## 📅 Progress Tracking
+## Progress Tracking
 
 I will structure the journey as:
 Day-01/
