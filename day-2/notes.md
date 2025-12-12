@@ -1,4 +1,4 @@
-# Day 02 — EC2 Web Server Setup
+# Day 02 — EC2 + NGINX setup and custom webpage deployment
 
 ## ✔ What I did today
 - Launched Ubuntu EC2 instance (t2.micro)
