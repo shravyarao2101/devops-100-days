@@ -20,4 +20,5 @@
 ## Environment
 - Platform: AWS EC2
 - OS: Ubuntu Linux
-- Access: SSH (non-root user)
+- Access: SSH (as non-root user)
+
