@@ -6,7 +6,6 @@ chmod 755 .
 stat file1.txt
 
 # Ownership
-ls -l
 whoami
 id
 groups
@@ -40,3 +39,4 @@ getent passwd
 getent group
 ls -ld .
 umask
+
