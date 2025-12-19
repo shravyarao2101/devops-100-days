@@ -1,25 +1,25 @@
-# DevOps 100 Days — Hands-on Learning Journey
+# DevOps 100 Days — Hands-On Journey
 
-This repository documents my **100-day DevOps learning journey**, where I practice real-world skills in:
+This repository documents my structured, hands-on journey toward becoming job-ready for DevOps / Cloud roles.
 
-- Linux & Shell Scripting  
-- Git, GitHub, Version Control  
-- AWS Cloud & Networking  
-- CI/CD Pipelines (GitHub Actions, Jenkins)  
-- Docker & Containerization  
-- Kubernetes  
-- Infrastructure as Code (Terraform)  
-- Monitoring & Observability  
-- MLOps & LLMOps foundations  
-- Real-world DevOps projects  
+## What this repo contains
+- Daily practical tasks (Linux, Git, AWS, Bash, NGINX)
+- Real command execution and automation
+- Clean documentation (no theory dumps)
+- Production-focused fundamentals before tools like Docker and Kubernetes
 
----
+## Current focus
+- Linux systems & services
+- AWS EC2
+- Git & GitHub workflows
+- Bash automation
+- Configuration & logging fundamentals
 
-## Progress Tracking
+## What’s next
+- Docker & containerization
+- CI/CD pipelines
+- Infrastructure as Code (Terraform)
+- Kubernetes
+- End-to-end DevOps projects
 
-I will structure the journey as:
-Day-01/
-Day-02/
-Day-03/
-...
-Day-100/
+This repo is actively maintained and reflects real execution, not copied tutorials.
